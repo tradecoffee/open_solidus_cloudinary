@@ -22,6 +22,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rake', '>= 11.1.2'
 
   spec.add_dependency 'solidus_core', '>= 1.3.0.rc1'
-  spec.add_dependency 'carrierwave', '~> 0.11.2'
+  spec.add_dependency 'carrierwave', '~> 2'
   spec.add_dependency 'cloudinary', '~> 1'
 end
